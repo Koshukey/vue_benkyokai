@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Task from '@components/Task.me'
-import Signup from '@components/Signup'
-import Signin from '@/components/SignIn'
+import Task from '@/components/Task'
+import Signup from '@/components/Signup'
+import Signin from '@/components/Signin'
 
 Vue.use(Router)
 
